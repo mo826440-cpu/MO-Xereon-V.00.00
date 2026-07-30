@@ -10,7 +10,7 @@ REM  2) Guardá este archivo.
 REM  3) Hacé doble clic para: git add + commit + push.
 REM ============================================================
 
-set "COMMIT=Agrega icono de descarga local en Login y referencia a descarga_local.md"
+set "COMMIT=Documenta el asistente de descarga e instalacion local de Xereon"
 
 REM ============================================================
 REM  (Opcional) Identidad de Git solo para este commit.

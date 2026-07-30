@@ -42,7 +42,7 @@ La pantalla de Login deberá mostrar un ícono que permita **descargar el sistem
 - El ícono será visible sin necesidad de iniciar sesión.
 - Su ubicación sugerida es un área secundaria de la pantalla (por ejemplo, esquina inferior o superior), sin competir con el formulario de Usuario y Contraseña.
 - Deberá tener texto accesible / tooltip claro, por ejemplo: `Descargar sistema local`.
-- El detalle del funcionamiento de ese ícono (qué descarga, requisitos, instalación y flujo) se documentará en `modulos/descarga_local.md`.
+- El detalle del funcionamiento de ese ícono (qué descarga, requisitos, instalación y flujo) se encuentra en `modulos/descarga_local.md`.
 
 ---
 
@@ -344,7 +344,7 @@ Los nombres exactos podrán ajustarse en la implementación, manteniendo esta re
 - Creación inicial de la especificación del módulo Login.
 - Definición de datos de ingreso del usuario.
 - Definición del flujo de autenticación y de la conexión frontend → backend → PostgreSQL.
-- Incorporación del ícono de descarga local en la pantalla de Login (detalle pendiente en `modulos/descarga_local.md`).
+- Incorporación del ícono de descarga local en la pantalla de Login (detalle en `modulos/descarga_local.md`).
 
 ---
 
@@ -354,4 +354,4 @@ Los nombres exactos podrán ajustarse en la implementación, manteniendo esta re
 - La gestión administrativa de usuarios se encuentra en `modulos/usuarios.md`.
 - Las reglas de contraseñas se encuentran en `03_reglas_generales.md`.
 - El usuario administrador inicial se encuentra en `02_datos_iniciales.md`.
-- El funcionamiento del ícono de descarga local se documentará en `modulos/descarga_local.md`.
+- El funcionamiento del ícono de descarga local se encuentra en `modulos/descarga_local.md`.
