@@ -116,6 +116,8 @@ modulos/
 
     login.md
 
+    descarga_local.md
+
     usuarios.md
 
     empresas.md
@@ -276,6 +278,7 @@ docs/
 │
 └── modulos/
     ├── login.md                ← Documentación del Login y conexión a la BD
+    ├── descarga_local.md       ← Descarga del sistema local (desde Login)
     ├── usuarios.md             ← Documentación del módulo Usuarios
     ├── empresas.md             ← Documentación del módulo Empresas
     ├── categorias.md           ← Documentación del módulo Categorías
